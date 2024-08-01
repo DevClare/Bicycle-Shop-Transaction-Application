@@ -1,0 +1,310 @@
+Jun 07, 2024 2:40:14 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Adding the initial bike available for purchase in the shop
+Jun 07, 2024 2:40:14 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory addObserver
+INFO: Adding observer
+Jun 07, 2024 2:40:14 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:14 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:14 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:15 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:15 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:15 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:15 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:15 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:16 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:17 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:17 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:17 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:17 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:17 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:17 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:18 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:18 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:18 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:18 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:18 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:18 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:18 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:18 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:18 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:19 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:19 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:19 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:19 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:19 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:19 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:19 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:20 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:20 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:20 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:21 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:21 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:21 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateCash
+INFO: update the cash after paying worker salary
+Jun 07, 2024 2:40:21 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:22 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:22 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:22 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:23 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:23 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:23 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:24 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:24 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:24 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:25 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:25 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:25 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:26 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:26 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:26 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:26 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:27 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:27 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:27 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:27 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:28 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:28 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Fail to proceed the transaction
+Jun 07, 2024 2:40:28 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Fail to proceed the transaction
+Jun 07, 2024 2:40:28 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:28 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:28 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:28 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:28 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateCash
+INFO: update the cash after paying worker salary
+Jun 07, 2024 2:40:28 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:29 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:29 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:29 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:29 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:29 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:29 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:29 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:30 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:30 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:30 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:30 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:30 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:30 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:30 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:30 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:30 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:32 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:32 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:32 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:32 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:32 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:32 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:32 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:32 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:32 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:32 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:33 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:33 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:33 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:33 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:33 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:34 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:34 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:34 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:35 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:35 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:35 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:36 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:36 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:36 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateCash
+INFO: update the cash after paying worker salary
+Jun 07, 2024 2:40:36 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:37 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:37 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:37 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:38 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:38 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:38 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:39 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:39 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:39 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:39 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:39 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:39 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:39 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:40 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:40 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Fail to proceed the transaction
+Jun 07, 2024 2:40:40 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:40 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:40 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:40 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:40 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:40 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:40 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:40 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Fail to proceed the transaction
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:41 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:42 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Starting the program...
+Jun 07, 2024 2:40:42 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory notifyObserver
+INFO: Notify the observer
+Jun 07, 2024 2:40:42 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:42 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:42 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Update the serviced bike date
+Jun 07, 2024 2:40:42 PM edu.curtin.oose2024s1.assignment2.bikeshop.Inventory updateDropOff
+INFO: Notify the bike to change the state
+Jun 07, 2024 2:40:42 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: One simulated day passed
+Jun 07, 2024 2:40:43 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: The program ends...

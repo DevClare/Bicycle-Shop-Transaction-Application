@@ -1,0 +1,17 @@
+Criteria (e)
+
+In the Bike Shop Program, I have implemented the Observer pattern for the employee salary and for the bike that is being serviced. For every 1 simulated day(one second of real life), the observer will be notified and called the updateCash and updateDropOff. 
+
+Every time the updateCash method is called, it will check if 7 days have passed and it will deduct $1000 of the cash for the employee salary. While for the updateDropOff method, whenever it is called, the method will decrease the day of the bike to be serviced until it reached zero. When the day of bike to be serviced reached zero, the method will then called the state method to change the bike state from Serviced state to PickUp state.
+
+
+Criteria (f)
+In the Bike Shop program, I have implemented the state pattern for 2 things, the space and the bike. The space have 2 state, which are "SpaceFull" and "SpaceAvailable" state. While the bike have 3 state, which are "PickUp", "Serviced", and "Sale" state.
+
+The initial bike stock in the shop and the bike delivered will be in the "Sale" state and the bike that is drop-off for service will be set in the "Serviced" state. When the bike is purchased online the "Sale" state will then set to "PickUp" state. While for the bike in serviced, the observer pattern will notified the updateDropOff for every 1 simulated day(one second in real life), when 2 simulated days have passed the state will be changed from "Serviced" to "PickUp" state.
+
+When the customer want to pick up the bike, the program will check if there is bike to be picked up under the customer email. If yes, it will then continue checking if the bike is in "Serviced" state by checking the bike day, if yes, "FAILURE" message will be displayed. If the bike is done servicing or for online purchase, the bike is in "PickUp" state,the bike will be removed from the Bike List.
+
+As for the Space state, initally the space is in "SpaceFull" state. For any transaction the space will be updated accordingly. When all the space is filled, the state will changed from "SpaceAvailable" to "SpaceFull" state. When the space is in "SpaceFull" state, for delivery and drop-off transaction, "FAILURE" message will be displayed, and the transaction will not allowed to occur. However, if the transaction is in-store purchase and pick-up, the space state will then be changed back to "SpaceAvailable" state, as one space is vacant when a bike is taken. For online purchase transaction, the state would not changed as the bike will still be in shop waiting to be pick up.
+
+

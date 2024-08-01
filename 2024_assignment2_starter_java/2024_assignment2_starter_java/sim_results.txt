@@ -1,0 +1,221 @@
+
+---
+Number of elapsed day: 1
+Total cash in the bank account: 15000
+Number of bikes available for purchase: 50
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 0
+---
+DROP-OFF ihcsus@rfmqv.tfs
+DROP-OFF lnxtic@qniio.trh
+PURCHASE-ONLINE lirq@hjznxbh.btw
+Number of elapsed day: 2
+Total cash in the bank account: 16000
+Number of bikes available for purchase: 49
+Number of bikes being serviced: 2
+Number of bikes awaiting pick-up: 1
+---
+DROP-OFF xeee@iizo.azo
+DROP-OFF zbfhy@akwngp.ybl
+PURCHASE-IN-STORE
+PURCHASE-IN-STORE
+Number of elapsed day: 3
+Total cash in the bank account: 18000
+Number of bikes available for purchase: 47
+Number of bikes being serviced: 4
+Number of bikes awaiting pick-up: 1
+---
+PURCHASE-IN-STORE
+DELIVERY
+PURCHASE-IN-STORE
+DELIVERY
+Number of elapsed day: 4
+Total cash in the bank account: 10000
+Number of bikes available for purchase: 65
+Number of bikes being serviced: 2
+Number of bikes awaiting pick-up: 3
+---
+PURCHASE-IN-STORE
+PURCHASE-IN-STORE
+Number of elapsed day: 5
+Total cash in the bank account: 12000
+Number of bikes available for purchase: 63
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 5
+---
+PURCHASE-IN-STORE
+Number of elapsed day: 6
+Total cash in the bank account: 13000
+Number of bikes available for purchase: 62
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 5
+---
+PURCHASE-IN-STORE
+PURCHASE-ONLINE igsao@ego.iqk
+PURCHASE-IN-STORE
+PURCHASE-ONLINE emv@lprua.slu
+PURCHASE-IN-STORE
+PURCHASE-ONLINE npg@evkao.ynn
+Number of elapsed day: 7
+Total cash in the bank account: 18000
+Number of bikes available for purchase: 56
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 8
+---
+PURCHASE-IN-STORE
+Number of elapsed day: 8
+Total cash in the bank account: 19000
+Number of bikes available for purchase: 55
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 8
+---
+Number of elapsed day: 9
+Total cash in the bank account: 19000
+Number of bikes available for purchase: 55
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 8
+---
+Number of elapsed day: 10
+Total cash in the bank account: 19000
+Number of bikes available for purchase: 55
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 8
+---
+PURCHASE-ONLINE njxtsz@rytr.crt
+Number of elapsed day: 11
+Total cash in the bank account: 20000
+Number of bikes available for purchase: 54
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 9
+---
+PURCHASE-ONLINE aatlj@mmvl.tyh
+DROP-OFF xyar@yxy.pbi
+PURCHASE-ONLINE niypjc@qbdhb.jww
+Number of elapsed day: 12
+Total cash in the bank account: 22000
+Number of bikes available for purchase: 52
+Number of bikes being serviced: 1
+Number of bikes awaiting pick-up: 11
+---
+Number of elapsed day: 13
+Total cash in the bank account: 22000
+Number of bikes available for purchase: 52
+Number of bikes being serviced: 1
+Number of bikes awaiting pick-up: 11
+---
+}OO$$lx|aXVG>v[c0A8 Y9X%Aa*~V/nFAILURE! Unknown transaction: }oo$$lx|axvg>v[c0a8
+PICK-UP xyar@yxy.pbi/nFAILURE! Sorry, the bike is not ready, it is still being serviced
+DROP-OFF edz@ojnqlu.qic
+Number of elapsed day: 14
+Total cash in the bank account: 21000
+Number of bikes available for purchase: 52
+Number of bikes being serviced: 1
+Number of bikes awaiting pick-up: 12
+---
+DROP-OFF jbqzy@oboehs.qqv
+DROP-OFF zfpow@tuhfip.dtz
+DROP-OFF ljltq@vconir.hja
+Number of elapsed day: 15
+Total cash in the bank account: 21000
+Number of bikes available for purchase: 52
+Number of bikes being serviced: 4
+Number of bikes awaiting pick-up: 12
+---
+PURCHASE-IN-STORE
+PURCHASE-IN-STORE
+PURCHASE-IN-STORE
+DROP-OFF vplzwpm@xit.ryw
+PURCHASE-IN-STORE
+Number of elapsed day: 16
+Total cash in the bank account: 25000
+Number of bikes available for purchase: 48
+Number of bikes being serviced: 4
+Number of bikes awaiting pick-up: 13
+---
+DELIVERY
+PURCHASE-ONLINE mfleujc@zmhot.bat
+Number of elapsed day: 17
+Total cash in the bank account: 21000
+Number of bikes available for purchase: 57
+Number of bikes being serviced: 1
+Number of bikes awaiting pick-up: 17
+---
+PURCHASE-IN-STORE
+PURCHASE-IN-STORE
+PURCHASE-IN-STORE
+Number of elapsed day: 18
+Total cash in the bank account: 24000
+Number of bikes available for purchase: 54
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 18
+---
+PICK-UP zbfhy@akwngp.ybl
+PICK-UP lnxtic@qniio.trh
+Number of elapsed day: 19
+Total cash in the bank account: 24200
+Number of bikes available for purchase: 54
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 16
+---
+Number of elapsed day: 20
+Total cash in the bank account: 24200
+Number of bikes available for purchase: 54
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 16
+---
+Number of elapsed day: 21
+Total cash in the bank account: 23200
+Number of bikes available for purchase: 54
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 16
+---
+PURCHASE-IN-STORE
+Number of elapsed day: 22
+Total cash in the bank account: 24200
+Number of bikes available for purchase: 53
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 16
+---
+Number of elapsed day: 23
+Total cash in the bank account: 24200
+Number of bikes available for purchase: 53
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 16
+---
+DROP-OFF wtue@atsnc.jud
+DROP-OFF cdai@smlohl.okg
+DROP-OFF wsgx@htyviy.irw
+DROP-OFF cxxsuvn@cck.vpx
+Number of elapsed day: 24
+Total cash in the bank account: 24200
+Number of bikes available for purchase: 53
+Number of bikes being serviced: 4
+Number of bikes awaiting pick-up: 16
+---
+DROP-OFF cyc@mkbp.eyl
+DROP-OFF wphu@jzxto.jix
+PICK-UP lnxtic@qniio.trh/nFAILURE! No bike match the customer email. Please make sure you enter the right email address.
+Number of elapsed day: 25
+Total cash in the bank account: 24200
+Number of bikes available for purchase: 53
+Number of bikes being serviced: 6
+Number of bikes awaiting pick-up: 16
+---
+PICK-UP xeee@iizo.azo
+PURCHASE-IN-STORE
+PURCHASE-ONLINE pfjam@xbpsmly.fcs
+PICK-UP wphu@jzxto.jix/nFAILURE! Sorry, the bike is not ready, it is still being serviced
+Number of elapsed day: 26
+Total cash in the bank account: 26300
+Number of bikes available for purchase: 51
+Number of bikes being serviced: 2
+Number of bikes awaiting pick-up: 20
+---
+DELIVERY
+Number of elapsed day: 27
+Total cash in the bank account: 21300
+Number of bikes available for purchase: 61
+Number of bikes being serviced: 0
+Number of bikes awaiting pick-up: 22
+The total number of input message: 56
+The total number of failures: 4
